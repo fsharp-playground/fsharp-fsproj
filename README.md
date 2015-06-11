@@ -1,4 +1,4 @@
-### Maual create .fsproj for fsharp-atom.
+### Manual create .fsproj for fsharp-atom.
 
 ```
 <Project ToolsVersion="4.0" DefaultTargets="Builid" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
